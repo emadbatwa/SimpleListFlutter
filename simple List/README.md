@@ -1,6 +1,5 @@
-# startup_namer
+# simple list 
 
-A simple project that shows English names randomly to help finding a startup name.
-
+A simple list array using flutter
 ## helping source:
 codelabs.developers.google.com
