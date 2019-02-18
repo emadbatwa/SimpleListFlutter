@@ -1,6 +1,5 @@
-# startup_namer
+# MY Simple List
 
-A simple project that shows English names randomly to help finding a startup name.
-
+simple List by fluuter
 ## helping source:
 codelabs.developers.google.com
